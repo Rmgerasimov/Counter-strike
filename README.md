@@ -1,2 +1,2 @@
 # Counter-strike
-Basic Shooter Game
+* Basic Shooter Game
